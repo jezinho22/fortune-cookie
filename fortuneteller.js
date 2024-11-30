@@ -20,6 +20,7 @@ function fortune(event) {
 	fortunePara.textContent = fortune;
 	fortunePara.className = "fortune-para";
 	fortuneSpace.appendChild(fortunePara);
+	console.log(fortune)
 }
 
 // function to convert name in total of its ascii codes
