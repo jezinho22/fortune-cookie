@@ -7,6 +7,7 @@ const fortunesArray = [
 	"You are almost there",
 	"You are busy, but you are happy",
 	"You are generous to an extreme and always think of the other fellow",
+	"Help! I am trapped inside the fortune cookie factory!",
 	"You are going to have some new clothes",
 	"You are in good hands this evening",
 	"You are interested in higher education, whether material or spiritual",
